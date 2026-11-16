@@ -52,7 +52,7 @@ Because the scores are multiplied, a site has to be good at everything. Threshol
 <p align="center">
   <img width="1517" height="732" alt="image" src="https://github.com/user-attachments/assets/bdc4a381-97b0-4807-ad5a-69320ae8c51b" />
   <img width="1485" height="621" alt="image" src="https://github.com/user-attachments/assets/5cb5a61c-75ca-49b9-a509-aa6f601983ca" />
-  <br><sub><em>Left: site #4, Puna, Argentina (Copernicus Sentinel-2). Right: Jezero crater from orbit (NASA/JPL-Caltech/MSSS/JHU-APL, PIA23239).</em></sub>
+  <br><sub><em>Up: site #4, Puna, Argentina (Copernicus Sentinel-2). Down: Jezero crater from orbit (NASA/JPL-Caltech/MSSS/JHU-APL, PIA23239).</em></sub>
 </p>
 
 ## 🖥️ The app
