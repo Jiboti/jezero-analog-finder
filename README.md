@@ -50,8 +50,8 @@ Because the scores are multiplied, a site has to be good at everything. Threshol
 - ⚠️ **Where the analogy breaks** — a 34 K day–night swing versus ≈ 87 K at Jezero, a warmer average temperature, and Earth's gravity, air and magnetic field. The app shows these limits for every site.
 
 <p align="center">
-  <img src="assets/site4_sentinel2.jpg" width="48%" alt="Site #4, salt flat in a closed basin, Puna, Argentina (Sentinel-2)">
-  <img src="assets/jezero_nasa_pia23239.jpg" width="48%" alt="Jezero crater from orbit, NASA PIA23239">
+  <img width="1517" height="732" alt="image" src="https://github.com/user-attachments/assets/bdc4a381-97b0-4807-ad5a-69320ae8c51b" />
+  <img width="1485" height="621" alt="image" src="https://github.com/user-attachments/assets/5cb5a61c-75ca-49b9-a509-aa6f601983ca" />
   <br><sub><em>Left: site #4, Puna, Argentina (Copernicus Sentinel-2). Right: Jezero crater from orbit (NASA/JPL-Caltech/MSSS/JHU-APL, PIA23239).</em></sub>
 </p>
 
@@ -65,7 +65,7 @@ Because the scores are multiplied, a site has to be good at everything. Threshol
 | **4 · Jezero vs new sites** | Rotating Mars globe (click Jezero to see it from orbit), a sourced Jezero fact sheet, and a side-by-side comparison of any two sites with their Jezero match. |
 
 <p align="center">
-  <img width="700" alt="Which site suits which experiment" src="assets/experiments.jpg" />
+  <img width="1535" height="709" alt="image" src="https://github.com/user-attachments/assets/a89e5d7a-18a2-4074-9c91-45ef34c33e90" />
   <br><sub><em>Which site for which experiment</em></sub>
 </p>
 
