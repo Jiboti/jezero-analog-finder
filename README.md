@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="700" alt="Top 100 candidate sites on the world map" src="assets/top100_map.jpg" />
+  <img width="1011" height="518" alt="image" src="https://github.com/user-attachments/assets/75cae690-e034-464f-a9ee-8c2dbe72c692" />
   <br><sub><em>The top 100 candidate sites worldwide</em></sub>
 </p>
 
