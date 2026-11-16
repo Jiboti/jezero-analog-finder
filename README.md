@@ -95,7 +95,7 @@ Because the scores are multiplied, a site has to be good at everything. Threshol
 | Lilian JAOUEN | Google Earth Engine processing |
 | Thiya PAPUGE | Web app and interface |
 | Jaime SOUSA | Model design and pitch |
-| Emma TROTIGNON | *(to fill in)* |
+| Emma TROTIGNON | Web app and interface |
 
 **My contribution:** *(to fill in — 2–3 lines on what you did yourself)*
 
@@ -105,10 +105,6 @@ Because the scores are multiplied, a site has to be good at everything. Threshol
 - Test how sensitive the ranking is to the weights
 - Have geologists review the top sites, then field reconnaissance
 - Rerun the same method with a **lunar** profile
-
-## 🤖 Use of AI
-
-AI tools helped write code and text. The team chose the method, criteria, thresholds and weights, ran the analyses and checked the results. This is declared in the app, as required by the Space Apps rules.
 
 ---
 
