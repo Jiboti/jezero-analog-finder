@@ -1,5 +1,5 @@
 <h1 align="center">🔴 Finding Jezero on Earth</h1>
-<h4 align="center">Where on Earth looks most like Jezero crater, the Mars landing site of NASA's Perseverance rover? · NASA Space Apps Challenge 2026, Paris — Team Proteus 2</h4>
+<h4 align="center">Where on Earth looks most like Jezero crater, the Mars landing site of NASA's Perseverance rover? · NASA Space Apps Challenge 2026, Paris </h4>
 
 <p align="center">
   <a href="https://proteus2-jezero-finder-app.streamlit.app/"><b>▶ Try the live app</b></a> ·
